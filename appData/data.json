@@ -1,0 +1,12 @@
+{
+	"listedProperties": [
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"_001.jpg", "numImages":"9" },
+		{ "address":"123 Aardvark St", "price":"430,000", "beds":"4", "baths":"2", "cars":"2", "size":"29sq", "imagesDir":"images/properties/0002/", "heroImage":"_001.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"003.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"004.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"005.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"006.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"007.jpg", "numImages":"8" },
+		{ "address":"123 Aardvark St", "price":"460,000", "beds":"4", "baths":"2", "cars":"2", "size":"34sq", "imagesDir":"images/properties/0001/", "heroImage":"008.jpg", "numImages":"8" }
+	]
+}
